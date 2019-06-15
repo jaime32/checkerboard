@@ -1,0 +1,22 @@
+.purple-box{
+    background-color: purple;
+    width: 550px;
+    height: 550px
+}
+.green-box{
+    background-color: green;
+    width: 550px;
+    height: 550px;
+}
+.red-box{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display:inline-block;
+}
+.blue-box{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    display:inline-block;
+}
